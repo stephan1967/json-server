@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Pipo",
+      "last_name": "de Kloon",
+      "email": "sebastian@codingthesmartway.com",
+      "salary": "15500",
+      "grade": "C"
+    },
+    {
+      "id": 2,
+      "first_name": "Razuko",
+      "last_name": "Felini",
+      "email": "rasti@rostelli.com",
+      "salary": "1500",
+      "grade": "D"
+    },
+    {
+      "id": 3,
+      "first_name": "Pipo de kloon",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 4,
+      "first_name": "Pipo de kloon",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "salary": "1400",
+      "grade": "D"
+    },
+    {
+      "id": 5,
+      "first_name": "Pipo de kloon",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "salary": "1400",
+      "grade": "D"
+    }
+  ]
+}
